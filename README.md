@@ -13,4 +13,4 @@ This project is about showing the ITI Website Implementation using CMS track's r
 - [Table of contents](#table-of-contents)
 - [Contribute](#contribute)
 # Contribute
-Only ITI reviewers are allowed to clone, fork, and pull my project
+you are allowed to clone, fork, and pull my project
